@@ -17,3 +17,5 @@ https://www.instructables.com/3D-Printer-Laser-Modification/
 nebo bez:
 https://www.instructables.com/DIY-Amp-Hour-Meter-Arduino/
 
+Vytváření 3D modelů:
+https://blog.prusaprinters.org/cs/fotogrammetrie-3d-skenovani-s-pouzitim-fotoaparatu-ci-mobilu_7811/
