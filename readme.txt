@@ -19,3 +19,6 @@ https://www.instructables.com/DIY-Amp-Hour-Meter-Arduino/
 
 Vytváření 3D modelů:
 https://blog.prusaprinters.org/cs/fotogrammetrie-3d-skenovani-s-pouzitim-fotoaparatu-ci-mobilu_7811/
+
+https://www.youtube.com/watch?v=ye-C-OOFsX8&list=WL&index=13
+
