@@ -9,6 +9,8 @@ https://www.alza.cz/ender-3-d5462906.htm#fotovideo
 První výtisk:
 https://www.thingiverse.com/thing:4773580
 
+Podpora modelu:
+https://www.simplify3d.com/support/articles/rafts-skirts-and-brims/
 
 Změna na laser:
 s větrákem:
